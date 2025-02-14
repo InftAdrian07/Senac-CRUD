@@ -4,5 +4,5 @@ CREATE TABLE funcionarios (
     id int AUTO_INCREMENT PRIMARY KEY,
     funcionario VARCHAR(60) NOT NULL,
     cidade VARCHAR(50) NOT NULL,
-    data_contrataçao DATE NOT NULL
+    data_contratacao DATE NOT NULL
 );
